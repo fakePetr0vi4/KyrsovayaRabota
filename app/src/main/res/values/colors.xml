@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wh">#E0E0E0E0</color>
+    <color name="gray2">#3C3F41</color>
+    <color name="shape1">#E0E0E0E0</color>
+    <color name="iri_color">#60096E</color>
+    <color name="red_alert">#EC0101</color>
+
+</resources>

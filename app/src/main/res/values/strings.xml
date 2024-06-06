@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Курсовая Работа Афиша</string>
+    <string name="authorization">Вход в афишу</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="worker">Разработал студент РИБО-05-22 Максимов Никита</string>
+    <string name="mirea_logo">MIREA Logo</string>
+    <string name="circle">circle</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="try_again">Ошибка, попробуйте заново!</string>
+    <string name="image">image</string>
+</resources>
